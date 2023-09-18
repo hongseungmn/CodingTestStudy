@@ -1,10 +1,16 @@
+/*
+ * 타겟 넘버
+ * https://school.programmers.co.kr/learn/courses/30/lessons/43165
+ */
+
+//홍성민
+
+
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
-
-
   
 public class TargetNumber {
   //재귀함수
