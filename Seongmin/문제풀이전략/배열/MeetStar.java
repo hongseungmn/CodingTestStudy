@@ -1,5 +1,10 @@
 package Seongmin.문제풀이전략.배열;
 
+/*
+ * 교점에 별 만들기
+ * https://school.programmers.co.kr/learn/courses/30/lessons/87377
+ * 홍성민
+ */
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
