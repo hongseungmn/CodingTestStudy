@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": [
+    ".",
+    "Seongmin/코딩테스트 고득점 Kit/DFS_BFS"
+  ],
+  "java.project.referencedLibraries": [],
+  "java.debug.settings.onBuildFailureProceed": true
+}
