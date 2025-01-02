@@ -1,4 +1,4 @@
-package Seongmin.문제풀이전략.배열;
+package 문제풀이전략.배열;
 
 /*
  * 교점에 별 만들기
