@@ -4,7 +4,12 @@
     "Seongmin/코딩테스트 고득점 Kit/DFS_BFS",
     "Seongmin",
     "Seongmin/코딩테스트 고득점 Kit/카카오",
-    "Seongmin/코딩테스트 고득점 Kit/PCCE"
+    "Seongmin/코딩테스트 고득점 Kit/PCCE",
+    "Seongmin/코딩테스트 고득점 Kit/level_2",
+    "Seongmin/코딩테스트 고득점 Kit/조합",
+    "Seongmin/코딩테스트 고득점 Kit/level_1",
+    "Seongmin/코딩테스트 고득점 Kit",
+    "Seongmin/코딩테스트 고득점 Kit/그래프"
   ],
   "java.project.referencedLibraries": [],
   "java.debug.settings.onBuildFailureProceed": true
