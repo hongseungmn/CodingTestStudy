@@ -261,7 +261,7 @@ public class EscapeBall2 {
       }
     }   
     
-    bfs()
+    // bfs()
 
   }
 
