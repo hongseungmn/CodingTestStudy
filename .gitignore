@@ -78,6 +78,8 @@ downloads/
 eggs/
 .eggs/
 lib/
+!Seongmin/lib/
+!Seongmin/lib/**
 lib64/
 parts/
 sdist/

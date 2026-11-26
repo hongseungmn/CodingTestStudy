@@ -11,6 +11,8 @@
     "Seongmin/코딩테스트 고득점 Kit",
     "Seongmin/코딩테스트 고득점 Kit/그래프"
   ],
-  "java.project.referencedLibraries": [],
+  "java.project.referencedLibraries": [
+    "Seongmin/lib/**/*.jar"
+  ],
   "java.debug.settings.onBuildFailureProceed": true
 }
